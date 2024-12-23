@@ -36,6 +36,9 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "@iktos-oss/molecule-representation": "^1.10.1",
+    "@iktos-oss/rdkit-provider": "^2.9.1",
+    "@rdkit/rdkit": "^2024.3.5-1.0.0",
     "ketcher-core": "*",
     "ketcher-macromolecules": "*",
     "ketcher-react": "*",
